@@ -11,6 +11,7 @@
 - [Rishabh](https://github.com/Rishp-3)
 - [gh900-0624] (https://github.com/)
 - [Minh Pham] (https://github.com/tuanminh130707-create)
+- [gh900-2026-6] (https://github.com/)
 - [xDatabox] (https://github.com/xdatabox)
 - [Pratyusha] (https://github.com/PratyushaM09)
 - [Kashish Raj](https://github.com/CodeBytesRaj)
